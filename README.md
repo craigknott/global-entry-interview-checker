@@ -1,3 +1,9 @@
+# Requirements
+This only needs requests
+```
+pip install requests
+```
+
 # Run
 ```
 python check.py
